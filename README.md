@@ -1,5 +1,5 @@
-**# PySQLMate: Bridge the gap between SQL and non-programmers with PySQLMate!**
-**# A User-Friendly Python MySQL CLI Interface for Non-Programmers Effortlessly Interact with MySQL Using Plain English**
+# PySQLMate: Bridge the gap between SQL and non-programmers with PySQLMate!
+> A User-Friendly Python MySQL CLI Interface for Non-Programmers Effortlessly Interact with MySQL Using Plain English**
 
 ## Table of Contents
 
